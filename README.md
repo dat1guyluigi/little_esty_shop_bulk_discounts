@@ -9,7 +9,7 @@ This is a solo 7 day project built with Ruby on Rails to create a e-commerce pla
 - Utilize advanced active record techniques to perform complex database queries
 - Practice consuming a public API while utilizing POROs as a way to apply OOP principles to organize code
 
-# h2 Setup 
+ #h2 Setup 
 This project requires Ruby 2.7.2.
 
 - Fork this repository
