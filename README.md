@@ -1,15 +1,15 @@
 # Little Esty Shop (discounts extension) 
 
-# h2 Description 
+#  Description 
 This is a solo 7 day project built with Ruby on Rails to create a e-commerce platform that is an extension of the base repo this was forked from. The assignment was to have discounts applied once a quantity threshold has been met. 
 
-# h2 Learning Goals 
+#  Learning Goals 
 - Practice designing a normalized database schema and defining model relationships
 - Utilize advanced routing techniques including namespacing to organize and group like functionality together.
 - Utilize advanced active record techniques to perform complex database queries
 - Practice consuming a public API while utilizing POROs as a way to apply OOP principles to organize code
 
- #h2 Setup 
+ # Setup 
 This project requires Ruby 2.7.2.
 
 - Fork this repository
